@@ -53,7 +53,23 @@
             <a href="{{ site.blogger_url }}" title="Blogger"><i class="fa-brands fa-blogger-b"></i></a>
             {% endif %}
             {%- if site.work_url -%}
-            <a href="{{ site.work_url }}" title="Work"><i class="fa-solid fa-briefcase"></i></a>
+              <a href="{{ site.work_url }}" class="footer-icon" title="Download CV">
+                    <span style="
+                    display: inline-block;
+                    width: 2.2em;
+                    height: 2.2em;
+                    line-height: 2.2em;
+                    text-align: center;
+                    border-radius: 50%;
+                    background-color: #000;
+                    color: #fff;
+                    font-weight: bold;
+                    font-size: 0.9em;
+                    font-family: sans-serif;
+                    ">
+                    CV
+                    </span>
+                </a>
             {% endif %}
             {%- if site.wikidata_id -%}
             <a href="https://www.wikidata.org/wiki/{{ site.wikidata_id }}" title="Wikidata"><i class="fa-solid fa-barcode"></i></a>
