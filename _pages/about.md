@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>UT Austin</a>. yunshan@utexas.edu
 
 profile:
   align: right
@@ -14,9 +14,10 @@ profile:
     <p> Austin, TX </p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hiiiiii!
+Welcome to my homepage! I will be a postdoctoral fellow in Department of Applied Mathematics and Statistics at Johns Hopkins University, under the supervision of Prof. Yanxun Xu. I completed my PhD in Statistics and Data Science at the University of Texas at Austin supervised by Prof. Peter Müller. Prior to UT Austin, I earned a Bachelor’s degree in Math from Fudan University in China. 
+
