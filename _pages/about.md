@@ -24,9 +24,11 @@ Welcome to my homepage! I am an incoming postdoctoral fellow in the Department o
 ## Research Interests
 
 My research interests lie in Bayesian non-parametrics, statistical machine learning, and their applications in bioinformatics and clinical trials. Specifically, I am interested in
+
 Methodology:
 - Dependent random partitions, model-based clustering
 - Gaussian Processes, generalized Bayes
+
 Application:
 - Single-cell data and spatial transcriptomics
 - Clinical trial design and analysis
