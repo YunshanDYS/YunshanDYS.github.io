@@ -70,3 +70,28 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+
+
+/* Social icon colors */
+.social .contact-icons a {
+  color: #444444;
+
+  i::before {
+    color: inherit;
+  }
+
+  &:hover,
+  &:focus-visible {
+    color: var(--global-theme-color);
+  }
+}
+
+/* Keep icons visible in dark mode */
+html[data-theme="dark"] .social .contact-icons a {
+  color: #dddddd;
+
+  &:hover,
+  &:focus-visible {
+    color: var(--global-theme-color);
+  }
+}
