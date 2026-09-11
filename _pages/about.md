@@ -19,18 +19,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my homepage! I am a postdoctoral fellow in the Department of Applied Mathematics and Statistics at Johns Hopkins University, where I work under the supervision of Dr. Yanxun Xu. I completed my PhD in Statistics and Data Science at the University of Texas at Austin supervised by Dr. Peter Müller. Prior to UT Austin, I earned a Bachelor’s degree in Math from Fudan University in China. 
+Welcome to my homepage! I am a postdoctoral fellow in the Department of Applied Mathematics and Statistics at Johns Hopkins University, where I work under the supervision of [Dr. Yanxun Xu](https://www.ams.jhu.edu/~yxu70/). I completed my PhD in Statistics and Data Science at the University of Texas at Austin supervised by [Dr. Peter Müller](https://math.utexas.edu/directory/peter-mueller). Prior to UT Austin, I earned a Bachelor’s degree in Math from Fudan University in China. 
 
 ## Research Interests
 
-My research develops Bayesian and statistical machine learning methods that leverage scientifically meaningful structure to make complex biomedical data analysis more interpretable, statistically reliable, and decision relevant. Specifically, I am interested in
+My research develops **Bayesian and statistical machine learning** methods that leverage scientifically meaningful structure to make complex biomedical data analysis more interpretable, statistically reliable, and decision relevant. Specifically, I am interested in
 
-Methodology:
-- Bayesian machine learning; representation learning
-- Bayesian nonparametrics; dependent random partitions; Gaussian processes
-- Adaptive clinical trial design
+**Methodology**:
+- **Statistical machine learning**: self-supervised representation learning; Bayesian modeling.
+- **Bayesian nonparametrics**: dependent random partitions; Gaussian processes.
 
-Application:
-- Health records and medication data; HIV, aging and cognition
-- Single-cell data and spatial transcriptomics
-- Clinical trial design and analysis
+**Application**:
+- **Biomedicine**: health records and medication data; HIV; mental health and cognition.
+- **Genomics**: single-cell data; spatial transcriptomics.
+- **Clinical trial**: Adaptive clinical trial design; surrogate endpoints. 
