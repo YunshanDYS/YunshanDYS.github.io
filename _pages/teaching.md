@@ -1,12 +1,20 @@
-<!-- ---
+---
 layout: page
+title: Teaching
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Johns Hopkins University
 
-Organize your courses by years, topics, or universities, however you like! -->
+*Guest Lecturer*
+
+- **EN.553.734 Generative AI and Agentic Systems for Clinical Data Science and Biopharmaceutical Statistics** (graduate level), Fall 2026.
+
+## University of Texas at Austin
+
+*Teaching Assistant*
+
+- **SDS 320E Elements of Statistics**, Fall 2021, Spring 2024.
+- **SDS 322E Elements of Data Science**, Spring 2022.
