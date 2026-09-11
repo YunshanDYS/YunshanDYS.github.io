@@ -13,22 +13,24 @@ profile:
     # <p>123 your address street</p>
     #  <p> Austin, TX </p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my homepage! I am a postdoctoral fellow in the Department of Applied Mathematics and Statistics at Johns Hopkins University, where I work under the supervision of Prof. Yanxun Xu. I completed my PhD in Statistics and Data Science at the University of Texas at Austin supervised by Prof. Peter Müller. Prior to UT Austin, I earned a Bachelor’s degree in Math from Fudan University in China. 
+Welcome to my homepage! I am a postdoctoral fellow in the Department of Applied Mathematics and Statistics at Johns Hopkins University, where I work under the supervision of Dr. Yanxun Xu. I completed my PhD in Statistics and Data Science at the University of Texas at Austin supervised by Dr. Peter Müller. Prior to UT Austin, I earned a Bachelor’s degree in Math from Fudan University in China. 
 
 ## Research Interests
 
-My research interests lie in Bayesian non-parametrics, statistical machine learning, and their applications in bioinformatics and clinical trials. Specifically, I am interested in
+My research develops Bayesian and statistical machine learning methods that leverage scientifically meaningful structure to make complex biomedical data analysis more interpretable, statistically reliable, and decision relevant. Specifically, I am interested in
 
 Methodology:
-- Dependent random partitions, model-based clustering
-- Gaussian Processes, generalized Bayes
+- Bayesian machine learning; representation learning
+- Bayesian nonparametrics; dependent random partitions; Gaussian processes
+- Adaptive clinical trial design
 
 Application:
+- Health records and medication data; HIV, aging and cognition
 - Single-cell data and spatial transcriptomics
 - Clinical trial design and analysis
