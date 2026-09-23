@@ -180,6 +180,12 @@ blockquote {
   margin-left: 1rem;
 }
 
+@media (min-width: 576px) {
+  .post article > .profile.float-right + .clearfix {
+    width: calc(70% - 1rem);
+  }
+}
+
 .profile.float-left {
   margin-right: 1rem;
 }
