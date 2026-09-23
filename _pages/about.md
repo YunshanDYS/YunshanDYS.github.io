@@ -26,11 +26,11 @@ Welcome to my homepage! I am a postdoctoral fellow in the Department of Applied 
 My research develops **statistical machine learning** methods to make complex biomedical data analysis more interpretable, trustworthy, and decision relevant. I work at the intersection of statistics, machine learning, and biomedical science, pursuing interdisciplinary research that connects statistical theory and computation with important biomedical questions. Specifically, I am interested in
 
 **Methodology**:
-- **Statistical machine learning**: self-supervised representation learning; kernel-based methods; Gaussian processes; generalized Bayes.
+- **Statistical machine learning**: self-supervised representation learning; Gaussian processes; generalized Bayes; variational inference.
 - **Bayesian nonparametrics**: dependent random partitions; finite mixture model; model-based clustering.
 - **Clinical trial methods**: Bayesian adaptive trial designs; sequential decision-making; information borrowing; surrogate endpoint evaluation.
 
 **Applications**:
 - **Biomedicine**: electronic health records (EHR); longitudinal medication data; HIV; mental health and cognition.
 - **Genomics**: single-cell data; spatial transcriptomics; multi-omics integration.
-- **Clinical trials**: innovative early-phase trial designs; surrogate endpoints, real-world data (RWD).
+- **Clinical trials**: innovative early-phase trial designs; surrogate endpoints; real-world data (RWD).
