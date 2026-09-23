@@ -33,4 +33,4 @@ My research develops **statistical machine learning** methods to make complex bi
 **Applications**:
 - **Biomedicine**: electronic health records (EHR); longitudinal medication data; HIV; mental health and cognition.
 - **Genomics**: single-cell data; spatial transcriptomics; multi-omics integration.
-- **Clinical trials**: innovative early-phase trial designs; surrogate endpoints; real-world data (RWD).
+- **Clinical trials**: innovative early-phase trial designs; surrogate endpoints; real-world data.
